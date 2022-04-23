@@ -16,6 +16,9 @@
   "browserslist": [
     "> 1%"
   ],
+  "engines": {
+    "node": ">=14.19.0"
+  },
   "dependencies": {
     "@apollo/client": "^3.5.10",
     "@headlessui/react": "^1.5.0",
